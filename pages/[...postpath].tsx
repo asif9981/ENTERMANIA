@@ -19,8 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://entertainmania.000webhostapp.com/` + encodeURI(path as string)
-				}`,
+					`https://www.highrevenuegate.com/fu1r4evk?key=4be03bb7a6e3a1313b91e785ef0412cc`				}`,
 			},
 		};
 		}
